@@ -1,0 +1,23 @@
+.signOutContainer {
+    padding-top: 290px;
+}
+
+.signOutButton {
+  display: flex;
+  align-items: center;
+  height: 94px;
+  background: #04454f;
+  border: none;
+  color: red;
+  cursor: pointer;
+  width: 100%;
+  padding-left: 15px;
+}
+
+.signOutButton #title {
+  padding: 35px;
+}
+
+.signOutContainer :hover{
+    background-color: #3b627a;
+}
